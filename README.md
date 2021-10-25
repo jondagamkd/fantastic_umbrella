@@ -22,7 +22,7 @@ This is a specialized database API with a specific use case. it is used to view,
 
 Once all dependencies have been installed it can be run by first sourcing the schema with the MYsql shell then running the seed script NPM RUN SEED then starting the server via NPM START.  Inputs and output routes can be used via insomnia.
 
-[![screenshot](./public/assets/img/umbrella.jpg)](https://watch.screencastify.com/v/uNhla4bSKT4VkMzCRSfg/)
+[![screenshot](./public/assets/img/umbrella.jpg)](https://watch.screencastify.com/v/dN2z78MHkB16iCepInnM/)
 
 
 ## Contributing
@@ -51,6 +51,6 @@ I can be contacted via email or on github at:
 
 ## Links
 
-The video can be seen [HERE](https://watch.screencastify.com/v/uNhla4bSKT4VkMzCRSfg/)
+The video can be seen [HERE](https://watch.screencastify.com/v/dN2z78MHkB16iCepInnM/)
 
 
