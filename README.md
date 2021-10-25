@@ -1,7 +1,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 <br />
 <p align="center">
-  <h1 align="center">Note Taker</h1>
+  <h1 align="center">Fantastic Umbrella Database API</h1>
 </p>
 
 ## Description 
